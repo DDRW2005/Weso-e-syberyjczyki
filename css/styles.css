@@ -75,3 +75,25 @@ footer {
     background-color: #4A7A8C;
     color: #fff;
 }
+#behavior {
+    padding: 2em;
+    background-color: #fafafa;
+    text-align: center;
+}
+
+#behavior h2 {
+    color: #4A7A8C;
+}
+
+#behavior h3 {
+    color: #4A7A8C;
+    font-size: 1.2em;
+    margin-top: 1em;
+}
+
+#behavior p {
+    text-align: left;
+    margin: 0.5em 0;
+    line-height: 1.6;
+    color: #333;
+}
